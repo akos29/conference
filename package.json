@@ -1,0 +1,40 @@
+{
+  "name": "conference",
+  "version": "1.0.0",
+  "description": "African Global Summit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "African",
+    "Summit",
+    "2022",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[\u001b[3~\u001b[3~\u001bn-\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "Kibrewossen Yitbarek",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "bootstrap": "^5.2.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "hint": "^7.1.3",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akos29/conference.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akos29/conference/issues"
+  },
+  "homepage": "https://github.com/akos29/conference#readme"
+}

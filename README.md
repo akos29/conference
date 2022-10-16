@@ -1,56 +1,26 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Global Conference for African Development
 
-> Description the project.
-
+> This capstone project is about the demonstrating website development ability acquired from Microverse 4 weeks training.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS, Javasript
+- Bootstrap
+- Linters
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@akos29](https://github.com/akos29)
+- Twitter: [@kbson](https://twitter.com/kbson)
+- LinkedIn: [Kibrewossen](https://linkedin.com/in/Kibrewossen)
 
 ## 🤝 Contributing
 
