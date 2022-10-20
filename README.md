@@ -7,12 +7,11 @@
 ## Built With
 
 - HTML, CSS, Javasript
-- Bootstrap
 - Linters
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://akos29.github.io/conference/)
 
 ## Authors
 
@@ -34,6 +33,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Thanks to [creativecommons](https://creativecommons.org/licenses/by-nc/4.0/)
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
