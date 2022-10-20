@@ -64,7 +64,7 @@ const speakersList = [
 function displaySpeaker(s) {
   const speaker = `<div class="speaker">
   <div class="profile-picture">
-  <img src="../assets/images/bg-transparent.jpg" alt="${s.name}" class="background">
+  <img src="./assets/images/bg-transparent.jpg" alt="${s.name}" class="background">
   <img src="${s.pp}" alt="${s.name}" class="foreground">
   </div>
   <h3>${s.name} T</h3>

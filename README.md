@@ -10,10 +10,16 @@
 - HTML, CSS, JavaScript
 - Linters
 
+## Designed by 
+
+-  Cidny Shin is the one the credit goes to for creating such an elegant and simple design. You can refer the mockup [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 ## Live Demo (if available)
 
 [Live Demo Link](https://akos29.github.io/conference/)
 
+## Loom Video
+
+- Please refer to my brief [demonstration](https://www.loom.com/share/fe99979688214cc8b3bd83a11b8214f9) about the website. Thank you in advance for watching.
 ## Authors
 
 👤 **Author1**
