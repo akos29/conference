@@ -19,58 +19,45 @@ document.querySelectorAll('.nav-link').forEach((item) => {
 
 const speakersList = [
   {
-    name: 'Abebe',
-    pp: './assets/images/kibrewossen.png',
-    position: 'CEO of ABC IDBFactory',
-    experience: 'Listen to the speakers from various countries about the message of development and its context.',
-  },
-  {
-    name: 'Abebe',
+    name: 'James M. Bing',
     pp: './assets/images/speaker 2.jpg',
-    position: 'CEO of ABC IDBFactory',
+    position: 'Head of  Researchers, Barkley University, Development State',
     experience: 'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-    name: 'Abebe',
+    name: 'Dorrel Tibbs',
+    pp: './assets/images/Dorrel-tibbs.jpg',
+    position: 'Global Head of People Development, Talent & Communication',
+    experience:
+    'Listen to the speakers from various countries about the message of development and its context.',
+  },
+  {
+    name: 'Yu Dan Shi',
+    pp: './assets/images/yu-dan-shi.jpg',
+    position: 'Head of Behavioural Science & Consulting, APAC',
+    experience:
+    'Listen to the speakers from various countries about the message of development and its context.',
+  },
+
+  {
+    name: 'Kibrewossen Y',
     pp: './assets/images/kibrewossen.png',
     position: 'CEO of ABC IDBFactory',
     experience:
     'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-    name: 'Abebe',
-    pp: './assets/images/kibrewossen.png',
-    position: 'CEO of ABC IDBFactory',
+    name: 'Negessu Tsegaye',
+    pp: './assets/images/king.webp',
+    position: 'Executive Leader Organisational Development',
     experience:
     'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-    name: 'Abebe',
-    pp: './assets/images/kibrewossen.png',
+    name: 'Daniel Sahle',
+    pp: './assets/images/dani.jpg',
     position: 'CEO of ABC IDBFactory',
-    experience:
-    'Listen to the speakers from various countries about the message of development and its context.',
-  },
-  {
-    name: 'Abebe',
-    pp: '../assets/images/speaker 2.jpg',
-    position: 'CEO of ABC IDBFactory',
-    experience:
-    'Listen to the speakers from various countries about the message of development and its context.',
-  },
-  {
-    name: 'Abebe',
-    pp: './assets/images/kibrewossen.png',
-    position: 'CEO of ABC IDBFactory',
-    experience:
-    'Listen to the speakers from various countries about the message of development and its context.',
-  },
-  {
-    name: 'Abebe',
-    pp: './assets/images/kibrewossen.png',
-    position: 'CEO of ABC IDBFactory',
-    experience:
-    'Listen to the speakers from various countries about the message of development and its context.',
+    experience: 'Listen to the speakers from various countries about the message of development and its context.',
   },
 ];
 
