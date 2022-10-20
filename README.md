@@ -1,18 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Global Conference for African Development
+>The summit's objectives are to address national adoption strategies and difficulties, choose the optimal operating model, and establish governance. Using the appropriate technologies for it is another.
 
 > This capstone project is about the demonstrating website development ability acquired from Microverse 4 weeks training.
 
 ## Built With
 
-- HTML, CSS, Javasript
-- Bootstrap
+- HTML, CSS, JavaScript
 - Linters
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://akos29.github.io/conference/)
 
 ## Authors
 
@@ -34,6 +34,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Thanks to [creativecommons](https://creativecommons.org/licenses/by-nc/4.0/) for providing such an awesome design template
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
