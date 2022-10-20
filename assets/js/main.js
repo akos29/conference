@@ -22,13 +22,14 @@ const speakersList = [
     name: 'Abebe',
     pp: './assets/images/kibrewossen.png',
     position: 'CEO of ABC IDBFactory',
-    experience:'Listen to the speakers from various countries about the message of development and its context.',
+    experience: 'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
     name: 'Abebe',
     pp: './assets/images/speaker 2.jpg',
     position: 'CEO of ABC IDBFactory',
-    experience:'Listen to the speakers from various countries about the message of development and its context.',},
+    experience: 'Listen to the speakers from various countries about the message of development and its context.',
+  },
   {
     name: 'Abebe',
     pp: './assets/images/kibrewossen.png',
@@ -73,12 +74,6 @@ const speakersList = [
   },
 ];
 
-function displaySpeakers() {
-  speakersList.forEach((speaker) => {
-  speakerContainer.innerHTML += displaySpeaker(speaker);
-  });
-}
-
 function displaySpeaker(s) {
   const speaker = `<div class="speaker">
   <div class="profile-picture">
@@ -92,6 +87,12 @@ function displaySpeaker(s) {
   ${s.experience}
   </p></div>`;
   return speaker;
+}
+
+function displaySpeakers() {
+  speakersList.forEach((speaker) => {
+    speakerContainer.innerHTML += displaySpeaker(speaker);
+  });
 }
 
 window.addEventListener('load', displaySpeakers);
