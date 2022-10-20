@@ -17,62 +17,59 @@ document.querySelectorAll('.nav-link').forEach((item) => {
   item.addEventListener('click', toggle);
 });
 
-let speakersList = [
-{
-  name: 'Abebe',
-  pp: './assets/images/kibrewossen.png',
-  position: 'CEO of ABC IDBFactory',
-  experience:
-  'Listen to the speakers from various countries about the message of development and its context.',
+const speakersList = [
+  {
+    name: 'Abebe',
+    pp: './assets/images/kibrewossen.png',
+    position: 'CEO of ABC IDBFactory',
+    experience:'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-  name: 'Abebe',
-  pp: './assets/images/speaker 2.jpg',
-  position: 'CEO of ABC IDBFactory',
-  experience:
-  'Listen to the speakers from various countries about the message of development and its context.',
+    name: 'Abebe',
+    pp: './assets/images/speaker 2.jpg',
+    position: 'CEO of ABC IDBFactory',
+    experience:'Listen to the speakers from various countries about the message of development and its context.',},
+  {
+    name: 'Abebe',
+    pp: './assets/images/kibrewossen.png',
+    position: 'CEO of ABC IDBFactory',
+    experience:
+    'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-  name: 'Abebe',
-  pp: './assets/images/kibrewossen.png',
-  position: 'CEO of ABC IDBFactory',
-  experience:
-  'Listen to the speakers from various countries about the message of development and its context.',
+    name: 'Abebe',
+    pp: './assets/images/kibrewossen.png',
+    position: 'CEO of ABC IDBFactory',
+    experience:
+    'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-  name: 'Abebe',
-  pp: './assets/images/kibrewossen.png',
-  position: 'CEO of ABC IDBFactory',
-  experience:
-  'Listen to the speakers from various countries about the message of development and its context.',
+    name: 'Abebe',
+    pp: './assets/images/kibrewossen.png',
+    position: 'CEO of ABC IDBFactory',
+    experience:
+    'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-  name: 'Abebe',
-  pp: './assets/images/kibrewossen.png',
-  position: 'CEO of ABC IDBFactory',
-  experience:
-  'Listen to the speakers from various countries about the message of development and its context.',
+    name: 'Abebe',
+    pp: '../assets/images/speaker 2.jpg',
+    position: 'CEO of ABC IDBFactory',
+    experience:
+    'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-  name: 'Abebe',
-  pp: '../assets/images/speaker 2.jpg',
-  position: 'CEO of ABC IDBFactory',
-  experience:
-  'Listen to the speakers from various countries about the message of development and its context.',
+    name: 'Abebe',
+    pp: './assets/images/kibrewossen.png',
+    position: 'CEO of ABC IDBFactory',
+    experience:
+    'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
-  name: 'Abebe',
-  pp: './assets/images/kibrewossen.png',
-  position: 'CEO of ABC IDBFactory',
-  experience:
-  'Listen to the speakers from various countries about the message of development and its context.',
-  },
-  {
-  name: 'Abebe',
-  pp: './assets/images/kibrewossen.png',
-  position: 'CEO of ABC IDBFactory',
-  experience:
-  'Listen to the speakers from various countries about the message of development and its context.',
+    name: 'Abebe',
+    pp: './assets/images/kibrewossen.png',
+    position: 'CEO of ABC IDBFactory',
+    experience:
+    'Listen to the speakers from various countries about the message of development and its context.',
   },
 ];
 
@@ -93,8 +90,7 @@ function displaySpeaker(s) {
   <hr/>
   <p class="bio">
   ${s.experience}
-  </p>
-</div>`;
+  </p></div>`;
   return speaker;
 }
 
