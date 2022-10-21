@@ -55,7 +55,7 @@ const speakersList = [
   },
   {
     name: 'Daniel Sahle',
-    pp: './assets/images/dani.jpg',
+    pp: './assets/images/Dani.jpg',
     position: 'CEO of ABC IDBFactory',
     experience: 'Listen to the speakers from various countries about the message of development and its context.',
   },
