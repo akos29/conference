@@ -43,7 +43,7 @@
   --bs-dark: #212529;
 }
 
-/* Font awesome icons*/
+/* Font awesome icons */
 .fa,
 .fa-classic,
 .fa-sharp,
@@ -59,30 +59,34 @@
   font-style: normal;
   font-variant: normal;
   line-height: 1;
-  text-rendering: auto; }
+  text-rendering: auto;
+}
 
-.fa-facebook-f:before {
-  content: "\f39e"; }
-  .fa-twitter:before {
-  content: "\f099"; }
-  
-  .fa-angle-down::before {
-    content: "\f107"; }
+.fa-facebook-f::before {
+  content: "\f39e";
+}
 
-  .fab,
+.fa-twitter::before {
+  content: "\f099";
+}
+
+.fa-angle-down::before {
+  content: "\f107";
+}
+
+.fab,
 .fa-brands {
-  font-weight: 400; }
+  font-weight: 400;
+  font-family: 'Font Awesome 6 Brands', sans-serif;
+}
 
-  .fas,
+.fas,
 .fa-classic,
 .fa-solid,
 .far,
 .fa-regular {
-  font-family: 'Font Awesome 6 Free'; }
-
-.fab,
-.fa-brands {
-  font-family: 'Font Awesome 6 Brands'; }
+  font-family: 'Font Awesome 6 Free', sans-serif;
+}
 
 header {
   background-image: url('../images/header.png');
