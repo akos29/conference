@@ -23,7 +23,7 @@
   --bs-black: #000;
   --bs-white: #fff;
   --bs-gray: #f7f7f7;
-  --bs-gray-dark: #343a40;
+  --bs-gray-dark: #d3d3d3;
   --bs-gray-100: #f8f9fa;
   --bs-gray-200: #e9ecef;
   --bs-gray-300: #dee2e6;
@@ -42,6 +42,47 @@
   --bs-light: #d3d3d3;
   --bs-dark: #212529;
 }
+
+/* Font awesome icons*/
+.fa,
+.fa-classic,
+.fa-sharp,
+.fas,
+.fa-solid,
+.far,
+.fa-regular,
+.fab,
+.fa-brands {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: var(--fa-display, inline-block);
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto; }
+
+.fa-facebook-f:before {
+  content: "\f39e"; }
+  .fa-twitter:before {
+  content: "\f099"; }
+  
+  .fa-angle-down::before {
+    content: "\f107"; }
+
+  .fab,
+.fa-brands {
+  font-weight: 400; }
+
+  .fas,
+.fa-classic,
+.fa-solid,
+.far,
+.fa-regular {
+  font-family: 'Font Awesome 6 Free'; }
+
+.fab,
+.fa-brands {
+  font-family: 'Font Awesome 6 Brands'; }
 
 header {
   background-image: url('../images/header.png');
