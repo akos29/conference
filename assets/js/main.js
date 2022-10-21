@@ -20,13 +20,13 @@ document.querySelectorAll('.nav-link').forEach((item) => {
 const speakersList = [
   {
     name: 'James M. Bing',
-    pp: './assets/images/speaker 2.jpg',
+    pp: './assets/images/Speaker2.jpg',
     position: 'Head of  Researchers, Barkley University, Development State',
     experience: 'Listen to the speakers from various countries about the message of development and its context.',
   },
   {
     name: 'Dorrel Tibbs',
-    pp: './assets/images/Dorrel-tibbs.jpg',
+    pp: './assets/images/DorrelTibbs.jpg',
     position: 'Global Head of People Development, Talent & Communication',
     experience:
     'Listen to the speakers from various countries about the message of development and its context.',
@@ -41,7 +41,7 @@ const speakersList = [
 
   {
     name: 'Kibrewossen Y',
-    pp: './assets/images/kibrewossen.png',
+    pp: './assets/images/Kibrewossen.png',
     position: 'CEO of ABC IDBFactory',
     experience:
     'Listen to the speakers from various countries about the message of development and its context.',
