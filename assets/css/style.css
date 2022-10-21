@@ -47,6 +47,7 @@ header {
   background-image: url('../images/header.png');
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: 73%;
   margin: 0;
 }
 
@@ -222,11 +223,9 @@ p {
 .show-case {
   display: flex;
   flex-direction: column;
-
-  /* height: 100vh; */
-  padding: 25% 5% 10%;
-  margin: auto;
+  padding: 18% 7% 12%;
   gap: 0.64rem;
+  margin: auto;
 }
 
 .show-case h1 {
@@ -524,6 +523,7 @@ footer .ft-row {
   grid-row: 1/-1;
   display: flex;
   justify-content: center;
+  font-size: small;
 }
 
 .logo {
@@ -544,12 +544,13 @@ footer .ft-row {
     top: 0;
     right: 0;
     width: 100vw;
-    height: 7%;
+    height: 40px;
     background-color: var(--bs-primary);
     z-index: 11;
     display: block;
     align-items: center;
-    padding: 0 10%;
+    transition: all 0.5s ease-in-out;
+    padding-right: 9%;
   }
 
   .top-sticky {
@@ -561,11 +562,11 @@ footer .ft-row {
     list-style: none;
     font-size: medium;
     float: right;
-    padding: 0.74rem;
+    padding: 0.54rem 0.75rem;
   }
 
   .menu-container {
-    top: 7%;
+    top: 40px;
     background-color: var(--bs-gray-100);
   }
 
@@ -582,7 +583,7 @@ footer .ft-row {
   }
 
   .menu-collapse {
-    display: flex;
+    display: flex !important;
     flex-direction: row;
     width: auto;
   }
@@ -735,7 +736,7 @@ footer .ft-row {
     align-items: center;
     justify-content: center;
     padding: 2em;
-    max-height: 100px;
+    max-height: 200px;
 
     /* display: none; */
   }

@@ -156,6 +156,14 @@
   padding: 5%;
 }
 
+.partners {
+  display: flex;
+  padding: 1% 5%;
+  justify-items: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .partners-logo {
   align-items: center;
   justify-content: center;
@@ -181,9 +189,6 @@ footer .logo {
     align-items: center;
     justify-content: center;
     gap: 0.64rem;
-    background-image: url('../images/header.png');
-
-    /* background-repeat: no-repeat; */
     background-size: contain;
   }
 
@@ -200,13 +205,14 @@ footer .logo {
   .site-map {
     display: block;
     position: absolute;
-    top: 17%;
-    right: 5%;
-    padding: 0;
+    top: 100px;
+    right: 9%;
+    padding: 1em;
     border: 0;
     margin: 0;
     font-weight: 400;
     color: var(--bs-primary);
+    background-color: var(--bs-gray);
     text-align: center;
   }
 
@@ -252,7 +258,7 @@ footer .logo {
   }
 
   .current-logo {
-    padding: 10%;
+    padding: 5%;
     gap: 0.5rem;
     border: 1px solid var(--bs-gray-300);
     margin: auto;
@@ -267,17 +273,21 @@ footer .logo {
   .current-logo p {
     text-align: center;
     display: flex;
-    padding: 1rem 2rem;
+    padding: 2% 10%;
   }
 
   .logo-current {
-    width: 450px;
-    height: 270px;
+    width: 248px;
+    height: 104px;
   }
 
   .logo-current img {
     width: 100%;
     height: auto;
+  }
+
+  .past-gs {
+    padding: 2% 15%;
   }
 
   .summits {
