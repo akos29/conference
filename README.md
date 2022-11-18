@@ -1,7 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Global Conference for African Development
->The summit's objectives are to address national adoption strategies and difficulties, choose the optimal operating model, and establish governance. Using the appropriate technologies for it is another.
+# Capstone Project : Global Conference for African Development
+>This project demonstrates my competency in the foundations of web development, with a particular emphasis on web development startups and training for becoming an effective software developer. The summit's goals are to reach the target audiences with a straightforward and elegant design..
+
+![image](https://user-images.githubusercontent.com/35809268/202755254-1fd388dc-4a1d-4b5b-ad79-45c68fced496.png)
+
 
 > This capstone project is about the demonstrating website development ability acquired from Microverse 4 weeks training.
 
